@@ -1,3 +1,8 @@
 # esp-slave
 
-Este es mi primer commit desde local
+Measure humidity.
+
+Components:
+
+ESP8266
+YL-69
